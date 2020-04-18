@@ -4,6 +4,8 @@
   Desafio 02: Conceitos do Node.js
 </h3>
 
+---
+
 ## :rocket: Sobre o desafio
 
 Detalhes do desafio: https://github.com/Rocketseat/bootcamp-gostack-desafios/tree/master/desafio-conceitos-nodejs
@@ -26,16 +28,16 @@ Detalhes do desafio: https://github.com/Rocketseat/bootcamp-gostack-desafios/tre
 ## :information_source: Instruções para rodar o projeto
 
 ```bash
-# Clone this repository
+# Clonando o repositório
 $ git clone https://github.com/gdlopes/gostack11-desafio-02.git
 
-# Go into the repository
+# Navegando para a pasta do projeto
 $ cd gostack11-desafio-02
 
-# Install dependencies
+# Instalando as dependências
 $ yarn
 
-# Now, run the app to test the routes
+# Rodando a aplicação
 $ yarn dev
 
 ```
@@ -43,7 +45,16 @@ $ yarn dev
 ### :pencil2: Para rodar os testes, basta utilizar o seguinte comando:
 
 ```bash
+  # Rodando os testes
   $ yarn test
 ```
 
-## :boom: Agora, utilize o [Insomnia](https://insomnia.rest/) para ver tudo functionando :)
+## :boom: Agora, utilize o [Insomnia](https://insomnia.rest/) para ver tudo funcionando :)
+
+[![Run in Insomnia}](https://insomnia.rest/images/run.svg)](https://insomnia.rest/run/?label=GoStack%2011%20-%20Desafio%2002&uri=https%3A%2F%2Fgithub.com%2Fgdlopes%2Fgostack11-desafio-02%2Fblob%2Fmaster%2Fdesafio02-api.json)
+
+### Thats it ! :wave:
+
+---
+
+by Gustavo Lopes :tada:
